@@ -1,28 +1,20 @@
 {
   "network": "goerli",
-  "v2": {
-    "address_jbProjects": "0x21263a042aFE4bAE34F08Bb318056C181bD96D3b",
-    "startBlock_jbProjects": 7627964
-  },
   "v3": {
-    "address_jbController": "0x7Cb86D43B665196BC719b6974D320bf674AFb395",
-    "startBlock_jbController": 7627971,
-    "address_jbTokenStore": "0x1246a50e3aDaF684Ac566f0c40816fF738F309B3",
-    "startBlock_jbTokenStore": 7627969,
-    "address_jbETHPaymentTerminal": "0x55d4dfb578daA4d60380995ffF7a706471d7c719",
-    "startBlock_jbETHPaymentTerminal": 7627976,
-    "address_jbETHERC20ProjectPayerDeployer": "0x981c8ECD009E3E84eE1fF99266BF1461a12e5c68",
-    "startBlock_jbETHERC20ProjectPayerDeployer": 7627959,
-    "address_jbFundingCycleStore": "0xB9Ee9d8203467f6EC0eAC81163d210bd1a7d3b55",
-    "startBlock_jbFundingCycleStore": 7627967,
-    "address_jbTiered721DelegateDeployer": "0x6060fa6d5c5b7bd219f2bc576992c239da8f6664",
-    "startBlock_jbTiered721DelegateDeployer": 7885285,
-    "address_jbTiered721DelegateStore": "0x3ea16deff07f031e86bd13c55961eb576cd579a6",
-    "startBlock_jbTiered721DelegateStore": 7885285
+    "address_jbController": "0xAF4a494E24bddc0AC898D782c3022df0b28cc6A8",
+    "startBlock_jbController": 8091508,
+    "address_jbTokenStore": "0xa9B614730870e97DC5375b08963217A79dcfd0ee",
+    "startBlock_jbTokenStore": 8091506,
+    "address_jbETHPaymentTerminal": "0x1f910FB8FD2490bB00A4FF76E8A1D267fa9780EC",
+    "startBlock_jbETHPaymentTerminal": 8091512,
+    "address_jbETHERC20ProjectPayerDeployer": "0x535EC6Bcd60bbF8Ac2309273a4FC4b58eE8B1CEb",
+    "startBlock_jbETHERC20ProjectPayerDeployer": 8091498,
+    "address_jbFundingCycleStore": "0x21C0CFE1F428e72c4E37813eEA95Ac42bCD5c1c4",
+    "startBlock_jbFundingCycleStore": 8091505
   },
-  "shared":{
-    "address_jbProjectHandles": "0x9e259442f800d981752c1359a3c7633db70bc395",
-    "startBlock_jbProjectHandles": 7784244,
+  "shared": {
+    "address_jbProjectHandles": "0xf66a27443776FCd29849b090d6fE1F0B87066835",
+    "startBlock_jbProjectHandles": 8091793,
     "address_ensRegistry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
   }
 }
