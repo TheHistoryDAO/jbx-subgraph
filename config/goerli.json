@@ -21,7 +21,7 @@
     "startBlock_jbTiered721DelegateStore": 8102880
   },
   "shared": {
-    "address_jbProjectHandles": "0xf66a27443776FCd29849b090d6fE1F0B87066835",
+    "address_jbProjectHandles": "0xF81DC3EC96Ee670DC4c9895a9Af8b7576541AeeF",
     "startBlock_jbProjectHandles": 8091793,
     "address_ensRegistry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
   }
