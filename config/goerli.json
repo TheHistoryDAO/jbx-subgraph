@@ -1,5 +1,9 @@
 {
   "network": "goerli",
+  "v2": {
+    "address_jbProjects": "0xCB88FF0B82b6E2624c13272F89195BFd15a64ede",
+    "startBlock_jbProjects": 8091503
+  },
   "v3": {
     "address_jbController": "0xAF4a494E24bddc0AC898D782c3022df0b28cc6A8",
     "startBlock_jbController": 8091508,
@@ -10,7 +14,11 @@
     "address_jbETHERC20ProjectPayerDeployer": "0x535EC6Bcd60bbF8Ac2309273a4FC4b58eE8B1CEb",
     "startBlock_jbETHERC20ProjectPayerDeployer": 8091498,
     "address_jbFundingCycleStore": "0x21C0CFE1F428e72c4E37813eEA95Ac42bCD5c1c4",
-    "startBlock_jbFundingCycleStore": 8091505
+    "startBlock_jbFundingCycleStore": 8091505,
+    "address_jbTiered721DelegateDeployer": "0x41514C08e9B199c64d4D8773cA85370c7e523B40",
+    "startBlock_jbTiered721DelegateDeployer": 8102880,
+    "address_jbTiered721DelegateStore": "0xA8FD4041b07ae530cb51B050FF833B362E2609e9",
+    "startBlock_jbTiered721DelegateStore": 8102880
   },
   "shared": {
     "address_jbProjectHandles": "0xf66a27443776FCd29849b090d6fE1F0B87066835",
